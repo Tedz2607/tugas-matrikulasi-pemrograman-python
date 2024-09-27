@@ -1,10 +1,10 @@
 #**Kelompok Kelas Matrikulasi-Pemrograman Python (P)**
-Devita Dwitama Putri Baron [6025241052]
-Alit Fajar Kurniawan [6025241046]
-Teddy Surianto [6025241022]
-Iqbal Fadhil [6025241009]
-Karim [6025241041]
-Arijal Ibnu Jati [6025241044]
+1. Devita Dwitama Putri Baron [6025241052]
+2. Alit Fajar Kurniawan [6025241046]
+3. Teddy Surianto [6025241022]
+4. Iqbal Fadhil [6025241009]
+5. Karim [6025241041]
+6. Arijal Ibnu Jati [6025241044]
 
 #**TUJUAN PROGRAM**
 
